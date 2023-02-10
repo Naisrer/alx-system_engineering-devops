@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod dugo+x 0x01-shell_permissions
+chmod du+rwx,g+r,o+r 0x01-shell_permissions
