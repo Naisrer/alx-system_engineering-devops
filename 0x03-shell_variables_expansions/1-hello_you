@@ -1,2 +1,2 @@
 #!/bin/bash
-set Name=user print"hello $user"
+echo "hello $user"
