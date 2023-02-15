@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$string" | tr Cc 
+tr "C" "c"
