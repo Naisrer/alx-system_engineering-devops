@@ -1,2 +1,2 @@
 #!/bin/bash
-head -13 /etc/ssh/sshd_config | tail +13
+grep -l /etc/ssh/sshd_config
